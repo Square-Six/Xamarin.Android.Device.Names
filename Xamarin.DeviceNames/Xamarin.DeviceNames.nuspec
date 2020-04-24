@@ -9,13 +9,12 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/Square-Six/Xamarin.Android.Device.Names</projectUrl>
-    <iconUrl>C:\Users\after\Desktop\Xamarin.Stripe.Terminal\Xamarin.DeviceNames\square_six_logo</iconUrl>
     <description>A small Android library to get the market name of an Android device.</description>
     <releaseNotes>Initial version of this package</releaseNotes>
     <copyright>Copyright 2020</copyright>
     <tags>android-device device-detection android android-library device-names android-device-names</tags>
   </metadata>
   <files>
-    <file src="C:\Users\after\Desktop\Xamarin.Stripe.Terminal\Xamarin.DeviceNames\bin\Release\Xamarin.DeviceNames.dll" target="lib\monoandroid" />
+    <file src="..\Xamarin.DeviceNames.dll" target="lib\monoandroid" />
   </files>
 </package>
